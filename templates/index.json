@@ -1,0 +1,150 @@
+{
+  "sections": {
+    "1584351683156": {
+      "type": "text-button",
+      "disabled": true,
+      "blocks": {
+        "1584765879672": {
+          "type": "slide",
+          "settings": {
+            "message_text": "The Patent Pending Diamond Rolling Knife Sharpener",
+            "button_text": "test",
+            "button_link": "shopify:\/\/blogs\/news\/menstrual-cups-are-now-eligible-for-fsa-hsa-hra"
+          }
+        }
+      },
+      "block_order": [
+        "1584765879672"
+      ],
+      "settings": {
+        "visibility": "both",
+        "color_bg": "#122b6c",
+        "color_text": "#ffffff"
+      }
+    },
+    "16150487994661eec4": {
+      "type": "slideshow",
+      "blocks": {
+        "261ae18e-39bd-4aab-9966-90345ad2aba4": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Albertware_Desktop_90f6ceec-3fcf-4c34-8d9f-b3ba2f55d0e4.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/Albertware_Mobile_4c50a0b8-13b0-4333-9934-9f3bea1cfda5.jpg",
+            "image_position": "center center",
+            "image_overlay": true,
+            "image_overlay_opacity": 10,
+            "text_alignment": "left_middle",
+            "text_alignment_mobile": "top_center",
+            "slide_heading": "GERMAN KNIVES<br>FOR HALF THE PRICE",
+            "slide_subheading": "Get a hand forged kitchen knife for a fraction of the cost.",
+            "button_label": "SHOP NOW",
+            "button_link": "shopify:\/\/products\/the-albert-chefs-knife-8-inch",
+            "slide_text_color": "#ffffff",
+            "slide_button_label_color": "#111111",
+            "slide_button_background_color": "#ffffff"
+          }
+        }
+      },
+      "block_order": [
+        "261ae18e-39bd-4aab-9966-90345ad2aba4"
+      ],
+      "settings": {
+        "home_hero_height": "full",
+        "hero_home_auto": false,
+        "home_hero_auto_speed": 5
+      }
+    },
+    "718e29a8-78ea-4561-bcdc-96dfda2f94ea": {
+      "type": "featured-video",
+      "settings": {
+        "heading": "THE ULTIMATE KNIFE",
+        "video_url": "https:\/\/youtu.be\/Pk76fwCW1xE",
+        "subtext": "Expertly crafted from premium German steel, this knife delivers the perfect balance of sharpness, edge retention, and durability. Combined with the modern design and ergonomic handle it's the ideal tool for any kitchen task.",
+        "bg_color": ""
+      }
+    },
+    "e47cd59a-93ac-43ad-b8f1-19aaea9c2a8c": {
+      "type": "index-product-image-text",
+      "settings": {
+        "image_position": "center",
+        "image": "shopify:\/\/shop_images\/Albert_price_comparison_alternative_c87e6721-6dad-40f2-b08b-23ab36e4fac0.jpg",
+        "mobile_image": "shopify:\/\/shop_images\/Albert_price_comparison_alternative_180555b3-66f0-4d04-beca-7496f1d6ca2d.jpg",
+        "text1": "",
+        "text2": "HALF THE PRICE",
+        "text3": "<p>Get the same great quality & craftsmenship without having to break the bank.<\/p>",
+        "btntext1": "SHOP NOW",
+        "btnlink1": "shopify:\/\/products\/the-albert-chefs-knife-8-inch",
+        "btntext2": "",
+        "btnlink2": "\/",
+        "bg_color": "#e9e9e9",
+        "heading_color": "#333333",
+        "txt_color": "#333333"
+      }
+    },
+    "1614421552feb24b5b": {
+      "type": "index-product-image-text",
+      "disabled": true,
+      "settings": {
+        "image_position": "center",
+        "image": "shopify:\/\/shop_images\/Albert_Chefsknife_Desktop.jpg",
+        "mobile_image": "shopify:\/\/shop_images\/Albert_Chefsknife_Desktop.jpg",
+        "text1": "",
+        "text2": "Slice your way to kitchen knife mastery",
+        "text3": "<p>Traditionally German knives are expensive. With Albert, you can get a sharp, durable, and reliable knife without breaking the bank.<\/p>",
+        "btntext1": "LEARN MORE",
+        "btnlink1": "shopify:\/\/products\/the-albert-chefs-knife-8-inch",
+        "btntext2": "",
+        "btnlink2": "",
+        "bg_color": "#dee0e3",
+        "heading_color": "#333333",
+        "txt_color": "#333333"
+      }
+    },
+    "c216b858-8d87-4cc0-b6c9-d2832c4c8b48": {
+      "type": "index-product-image-text",
+      "disabled": true,
+      "settings": {
+        "image_position": "center",
+        "image": "shopify:\/\/shop_images\/DS8C0043.jpg",
+        "mobile_image": "shopify:\/\/shop_images\/DS8C0043_dc2482bf-fcfe-4d22-9249-2c0eff0d23e9.jpg",
+        "text1": "",
+        "text2": "GERMAN CRAFTSMENSHIP",
+        "text3": "<p>Everything you need for a healthier period with comfy products you can wash and wear for years.<\/p>",
+        "btntext1": "SHOP NOW",
+        "btnlink1": "shopify:\/\/products\/the-albert-chefs-knife-8-inch",
+        "btntext2": "",
+        "btnlink2": "\/",
+        "bg_color": "",
+        "heading_color": "",
+        "txt_color": ""
+      }
+    },
+    "957f7cfc-c4b6-4447-b39c-0f64a5b8135f": {
+      "type": "index-product-image-text",
+      "settings": {
+        "image_position": "center",
+        "image": "shopify:\/\/shop_images\/Sub-section_f00e6a30-1cab-4a19-9bb9-f4fcd47c9a40.png",
+        "mobile_image": "shopify:\/\/shop_images\/Sub-section_a3662969-13aa-4702-8a8e-4828ad467f15.png",
+        "text1": "",
+        "text2": "SATISFACTION GUARANTEE",
+        "text3": "<p>At Albertware, we stand behind every product we sell. That's why we offer a lifetime guarantee, free shipping and free returns. Shop now.<\/p>",
+        "btntext1": "LEARN MORE",
+        "btnlink1": "shopify:\/\/products\/the-albert-chefs-knife-8-inch",
+        "btntext2": "",
+        "btnlink2": "\/",
+        "bg_color": "#efefef",
+        "heading_color": "#333333",
+        "txt_color": "#333333"
+      }
+    }
+  },
+  "order": [
+    "1584351683156",
+    "16150487994661eec4",
+    "718e29a8-78ea-4561-bcdc-96dfda2f94ea",
+    "e47cd59a-93ac-43ad-b8f1-19aaea9c2a8c",
+    "1614421552feb24b5b",
+    "c216b858-8d87-4cc0-b6c9-d2832c4c8b48",
+    "957f7cfc-c4b6-4447-b39c-0f64a5b8135f"
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "sections": {
+    "main": {
+      "type": "product-template",
+      "settings": {
+        "cust_t": "Select #  knives :",
+        "eq": "ea.",
+        "zoom_enable": false,
+        "social_sharing_products": false,
+        "product_vendor_enable": false,
+        "image_layout": "stacked",
+        "quantity_enabled": false,
+        "product_selector": "radio",
+        "enable_payment_button": false,
+        "add_to_cart_button_size": "small"
+      }
+    },
+    "c8e28e81-9f0a-4965-88c2-2f70c8a08eb3": {
+      "type": "featured-video-alt",
+      "settings": {
+        "heading": "",
+        "video_url": "https:\/\/youtu.be\/Pk76fwCW1xE",
+        "subtext": "",
+        "bg_color": ""
+      }
+    },
+    "product-below-sections": {
+      "type": "product-below-sections",
+      "settings": {}
+    },
+    "faq-title": {
+      "type": "faq-title",
+      "settings": {
+        "title": "Got more questions? <span style=\"color:#08a3e4;\">See our FAQ<\/span>",
+        "title_url": "shopify:\/\/pages\/frequently-asked-questions"
+      }
+    },
+    "review-title": {
+      "type": "review-title",
+      "disabled": true,
+      "settings": {
+        "title": "Why people love it",
+        "subtitle": "Check out why other customers love Tumbler."
+      }
+    },
+    "product-recommendations": {
+      "type": "product-recommendations",
+      "disabled": true,
+      "settings": {
+        "show_product_recommendations": false,
+        "heading": "You may also like"
+      }
+    },
+    "16504289011cb7eefd": {
+      "type": "faqs",
+      "disabled": true,
+      "blocks": {
+        "b7ebd10d-21ee-4f0d-9eef-6973411c9df2": {
+          "type": "text",
+          "settings": {
+            "title": "Question",
+            "description": "Answer goes here..."
+          }
+        },
+        "937e7102-86a6-4b5a-ade9-7026542e3538": {
+          "type": "text",
+          "settings": {
+            "title": "Question",
+            "description": "Answer goes here..."
+          }
+        }
+      },
+      "block_order": [
+        "b7ebd10d-21ee-4f0d-9eef-6973411c9df2",
+        "937e7102-86a6-4b5a-ade9-7026542e3538"
+      ],
+      "settings": {
+        "section_header": "Faq",
+        "bg_color": ""
+      }
+    }
+  },
+  "order": [
+    "main",
+    "c8e28e81-9f0a-4965-88c2-2f70c8a08eb3",
+    "product-below-sections",
+    "faq-title",
+    "review-title",
+    "product-recommendations",
+    "16504289011cb7eefd"
+  ]
+}

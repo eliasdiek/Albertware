@@ -1,0 +1,106 @@
+{
+  "sections": {
+    "page-title": {
+      "type": "page-title",
+      "settings": {}
+    },
+    "1629739751e6a954c2": {
+      "type": "faqs",
+      "blocks": {
+        "dc63cbd7-65bd-4f83-92c3-b8deffe74b53": {
+          "type": "text",
+          "settings": {
+            "title": "Where are Albert knives made?",
+            "description": "Albert Knives are made in the \"city of blades\" in Solingen, Germa"
+          }
+        },
+        "c3080880-bdd3-41a6-a53b-84283e48cbbb": {
+          "type": "text",
+          "settings": {
+            "title": "What's the rockwell hardness of the Albert knife?",
+            "description": "57 rockwell."
+          }
+        },
+        "e7ba8ee1-1733-40e7-81a9-3ea88096dce7": {
+          "type": "text",
+          "settings": {
+            "title": "What material is the handle made of?",
+            "description": "Natural, wild olive wood."
+          }
+        },
+        "95b916c8-7c04-4bdb-8caf-9a5824b894d2": {
+          "type": "text",
+          "settings": {
+            "title": "What's the edge angle of the Albert knife?",
+            "description": "17.5 - 20.0 degrees"
+          }
+        },
+        "1f538424-63f0-458a-8e8b-f6574bb3ddf1": {
+          "type": "text",
+          "settings": {
+            "title": "How is the knife balanced?",
+            "description": "It's balanced to perfectly sit in your hand without straining it."
+          }
+        },
+        "6cdd4257-94a2-43ee-a5d6-9b5e3bb72c23": {
+          "type": "text",
+          "settings": {
+            "title": "How long will an Albert knife stay sharp?",
+            "description": "This depends on usage but we designed the Albert knife to have the perfect balance of sharpness and edge retention so you can trust it will sharper longer and can easily be resharpened at home."
+          }
+        },
+        "68d008cb-6912-4cff-b813-4b6d483bc7a1": {
+          "type": "text",
+          "settings": {
+            "title": "Is the Albert knife suitable for professional chefs?",
+            "description": "Yes, the Albert knife is great for home and professional chefs."
+          }
+        }
+      },
+      "block_order": [
+        "dc63cbd7-65bd-4f83-92c3-b8deffe74b53",
+        "c3080880-bdd3-41a6-a53b-84283e48cbbb",
+        "e7ba8ee1-1733-40e7-81a9-3ea88096dce7",
+        "95b916c8-7c04-4bdb-8caf-9a5824b894d2",
+        "1f538424-63f0-458a-8e8b-f6574bb3ddf1",
+        "6cdd4257-94a2-43ee-a5d6-9b5e3bb72c23",
+        "68d008cb-6912-4cff-b813-4b6d483bc7a1"
+      ],
+      "settings": {
+        "section_header": "",
+        "bg_color": ""
+      }
+    },
+    "16297389205ecd9c87": {
+      "type": "text-with-button-alt",
+      "settings": {
+        "heading": "GERMAN KNIVES FOR HALF THE PRICE",
+        "body": "<p>Get a hand forged knife for a fraction the cost.<\/p>",
+        "button_link": "shopify:\/\/products\/the-albert-chefs-knife-8-inch",
+        "button_text": "SHOP NOW",
+        "bg_color": "#f2eeec",
+        "heading_color": "",
+        "txt_color": "#51453f",
+        "button_color": "",
+        "button_text_color": ""
+      }
+    },
+    "165032498671fa759b": {
+      "type": "text-with-button",
+      "disabled": true,
+      "settings": {
+        "heading": "A short sentence describing what someone will receive by heading",
+        "sub_heading": "<p>A short sentence describing what someone will receive by subheading<\/p>",
+        "button_link": "",
+        "button_text": "",
+        "bg_color": ""
+      }
+    }
+  },
+  "order": [
+    "page-title",
+    "1629739751e6a954c2",
+    "16297389205ecd9c87",
+    "165032498671fa759b"
+  ]
+}
